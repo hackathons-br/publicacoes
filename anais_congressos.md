@@ -1,0 +1,14 @@
+# Anais de congressos
+Essa é uma lista de trabalhos completos publicados em anais de congressos brasileiros sobre Hackathons.
+
+## 2016
+- FOWLER, Fábio Roberto; SUMITANI, Yasmim P. T.; NORONHA, Juliana Caminha. [Hackathons como programas de desenvolvimento em empreendedorismo: um estudo de caso do Maker Hacklab](https://fablearn.org/wp-content/uploads/2016/09/FLBrazil_2016_paper_137.pdf). In: [CONFERÊNCIA FABLEARN BRASIL, 1., 2016](https://fablearn.org/conferences/brazil2016/artigos/), São Paulo. **Anais...**. Nova Iorque: Columbia University, 2016. p. 1-4.
+
+## 2017
+- BRAUNER, Daniela F. et al. [Experimentando a Multidisciplinaridade no Desenvolvimento de Apps](https://sol.sbc.org.br/index.php/wei/article/view/3534/3493). In: [WORKSHOP SOBRE EDUCAÇÃO EM COMPUTAÇÃO (WEI-SBC), 25.](https://sol.sbc.org.br/index.php/wei/article/view/3534), 2017, São Paulo. **Anais do XXV Workshop sobre Educação em Computação**. Porto Alegre: SBC, 2017. p. 2189-2198.
+- BUENO, Lais et al. [Investigando um hackathon enquanto comunidade de prática: as evidências de uma pesquisa qualitativa](http://proceeding.ciki.ufsc.br/index.php/ciki/article/view/626/313). In: [International Congress of Knowledge and Innovation - ciKi](http://proceeding.ciki.ufsc.br/index.php/ciki/article/view/626), 2017, Foz do Iguaçu. **Anais do VII Congresso Internacional de Conhecimento e Inovação (ciKi)**. Florianópolis: UFSC, 2017. **Links desse trabalho estão quebrados**.
+- CASTRO, Eduardo de Oliveira; ASSUNÇÃO, Matheus de Mello de. [A experiência de organizar um hackathon para solução de problemas públicos](http://consad.org.br/wp-content/uploads/2017/05/Painel-30_011.pdf). In: [CONGRESSO CONSAD, 10.](http://consad.org.br/trabalhos-selecionados-x-congresso/), 2017, Brasília. **Anais...**. Brasília: Consad, 2017. p. 1-6.
+
+## 2018
+- LOURENÇO, Gisele Caroline Urbano et al. [Aprendizagem na indústria de software: a investigação de um hackathon interno](http://www.unoeste.br/site/enepe/2018/suplementos/area/Humanarum/Educa%C3%A7%C3%A3o/APRENDIZAGEM%20NA%20IND%C3%9ASTRIA%20DE%20SOFTWARE%20A%20INVESTIGA%C3%87%C3%83O%20DE%20UM%20HACKATHON%20INTERNO.pdf). In: [ENCONTRO DE ENSINO, PESQUISA E EXTENSÃO DA UNOESTE, 23.](http://www.unoeste.br/site/enepe/2018/suplementos.aspx?area=Humanarum), 2018, Presidente Prudente, SP. **Anais...**. Presidente Prudente, SP: Unoeste, 2018. p. 135-139.
+- ROMANI, Luciana Alvim Santos et al. [Proposição de soluções inovadoras em agricultura: a experiência de Hackathon na Embrapa Informática Agropecuária](https://www.alice.cnptia.embrapa.br/alice/bitstream/doc/1096585/1/PLProposicaoAnprotec2018.pdf). In: [CONFERÊNCIA ANPROTEC, 28.](https://www.alice.cnptia.embrapa.br/handle/doc/1096585), 2018, Goiânia. **Agro: negócio, tecnologia e inovação: anais.**. [S.l.]: Anprotec; Sebrae, 2018. p. 528 - 545.
